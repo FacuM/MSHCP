@@ -35,7 +35,7 @@ Make a change in your file and instantanously see your updates!
 
 Open your favorite Terminal and run these commands.
 
-This will allow you to edia all files:
+This will allow you to edit all files:
 ```sh
 $ sh install.sh
 ```
