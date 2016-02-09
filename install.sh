@@ -24,3 +24,6 @@ mhcpversion="1.0.0 alpha"
 fi
   read -n1 -r -p "Press any key to continue..."
   clear
+  echo "Installing Required Packages..."
+  apt-get -qq -y upgrade
+  
