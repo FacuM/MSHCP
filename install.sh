@@ -26,4 +26,5 @@ fi
   clear
   echo "Installing Required Packages..."
   apt-get -qq -y upgrade
-  
+  sudo apt-get install nodejs
+sudo apt-get install npm
