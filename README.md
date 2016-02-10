@@ -8,7 +8,7 @@ MSHCP allows you to create an awesome web hosting project using the Minecraft Se
 
 ## Installation
  1. Clone the MSHCP files to begin the **installation** procedure.
- 1. type `sh install.sh` and make sure you have **root** permissions.
+ 1. type `bash install.sh` and make sure you have **root** permissions.
  3. Visit your browser at `localhost:9010`
 
 ### Version
@@ -37,5 +37,5 @@ Open your favorite Terminal and run these commands.
 
 This will allow you to edit all files:
 ```sh
-$ sh install.sh
+$ bash install.sh
 ```

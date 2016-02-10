@@ -1,0 +1,2 @@
+nohup php -S 0.0.0.0:9012 -t /var/web &
+echo "server Runnig on :9012"
